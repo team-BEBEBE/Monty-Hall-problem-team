@@ -1,4 +1,4 @@
-import monty_hall as mh
+import monty_hall_random as mh
 
 
 if __name__ == '__main__':
