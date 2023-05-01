@@ -46,3 +46,6 @@ montyHall.py
 ![image](https://user-images.githubusercontent.com/81455273/235447509-0f5e9781-cfb9-479c-8742-d1fdc3f1a494.png)
 
 
+## 작업 결과
+<img width="141" alt="image" src="https://user-images.githubusercontent.com/84652886/235449246-cad3cc40-79d5-463a-b322-6a1b0cb7ce58.png">
+
