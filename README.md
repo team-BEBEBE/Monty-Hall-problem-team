@@ -47,5 +47,5 @@ montyHall.py
 
 
 ## 작업 결과
-![img](https://user-images.githubusercontent.com/84652886/235449246-cad3cc40-79d5-463a-b322-6a1b0cb7ce58.png)
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/84652886/235449376-5c2213b7-2926-43d2-bd7a-ee2dbb452d47.png">
 
