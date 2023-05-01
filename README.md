@@ -38,6 +38,12 @@ montyHall.py
 - monty_hall() 함수를 total 만큼 돌린후 결과 계산
 - 확률 출력
 
+## 작업 결과
+
+![image](https://user-images.githubusercontent.com/81455273/235450011-a2b6053e-8a49-448b-964c-4437caf4fbe2.png)
+
+
+
 ## 작업 과정 ..
 
 ![image](https://user-images.githubusercontent.com/81455273/235448749-9a40b8e2-bedb-4e27-a41f-d774e54a35b0.png)
