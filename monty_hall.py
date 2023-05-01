@@ -7,6 +7,7 @@ def monty_hall():
     car = randint(0, 2)
     first_choice = randint(0, 2)
     open_door = except_and_random_choice(car, first_choice)
+    second_choice = except_and_random_choice(first_choice, open_door)
     return True, True
 
 print(monty_hall())
